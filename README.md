@@ -8,7 +8,7 @@
 <br/>
 <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> Node.js 
 <br/>
-<img alt="MongoDB" width="26px" src="mongo.png" /> MongoDB (NoSQL)
+<img alt="MongoDB" width="26px" src="kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cbb3c6e9.4630661915541024757364.png" /> MongoDB (NoSQL)
 <br/>
 <br/>
 and most importantly, 🎨 **MS Paint** 
